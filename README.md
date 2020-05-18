@@ -1,10 +1,10 @@
-# Project Akhir RPL Dan Basdat
+# Project Akhir RPL Dan Basisdata
 
 ## JD-ADA Website Development
 - Trello Team : https://trello.com/b/CA5BlXdY/jd-ada-development
 - Github Original : https://github.com/hanaasalsa/JDADA
 
-### Kelompok 8 RPL
+### Kelompok 8 RPL Dan Basisdata
 1. Irlan Fazryana Rahman  G64180004
 2. Hana Salsabila         G64180051 
 3. Habieb Al-Rahman       G64180043
