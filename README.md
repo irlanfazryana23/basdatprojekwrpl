@@ -83,4 +83,11 @@ Solusi untuk permasalah Bambang ini adalah sebuah aplikasi yanh dapat memudahkan
 ![452](https://user-images.githubusercontent.com/16473727/82249098-67347000-9973-11ea-80f8-7d512f449853.PNG)
 ![6785](https://user-images.githubusercontent.com/16473727/82249131-71566e80-9973-11ea-8b17-7d5eeabfb67f.PNG)
 ![45512](https://user-images.githubusercontent.com/16473727/82249155-7adfd680-9973-11ea-98ef-f8364238d999.PNG)
+![53241](https://user-images.githubusercontent.com/16473727/82249289-b9759100-9973-11ea-9142-8694bf554819.PNG)
+![64345](https://user-images.githubusercontent.com/16473727/82249307-c0040880-9973-11ea-9016-67aed7f96d33.PNG)
+![45324](https://user-images.githubusercontent.com/16473727/82249320-c72b1680-9973-11ea-9a15-34ff3c9d32b5.PNG)
+
+
+
+
 
