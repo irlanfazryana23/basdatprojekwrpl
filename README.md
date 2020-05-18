@@ -78,5 +78,9 @@ Solusi untuk permasalah Bambang ini adalah sebuah aplikasi yanh dapat memudahkan
 ![erdJDADA](https://user-images.githubusercontent.com/60083962/82161220-1ebe7900-98c5-11ea-8c01-68150a94e12b.png)
 
 ### Hasil Implementasi Web
-#### Landing Page
 ![landingpage](https://user-images.githubusercontent.com/60083962/82173922-28fa6a80-98f9-11ea-855e-aa0ceb93d8f5.PNG)
+![1234](https://user-images.githubusercontent.com/16473727/82249019-4c61fb80-9973-11ea-8a75-0bfcc51ccb2a.PNG)
+![452](https://user-images.githubusercontent.com/16473727/82249098-67347000-9973-11ea-80f8-7d512f449853.PNG)
+![6785](https://user-images.githubusercontent.com/16473727/82249131-71566e80-9973-11ea-8b17-7d5eeabfb67f.PNG)
+![45512](https://user-images.githubusercontent.com/16473727/82249155-7adfd680-9973-11ea-98ef-f8364238d999.PNG)
+
