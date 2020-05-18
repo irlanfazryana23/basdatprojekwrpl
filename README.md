@@ -1,8 +1,8 @@
-# Project Akhir RPL
+# Project Akhir RPL Dan Basdat
 
 ## JD-ADA Website Development
-- Trello : https://trello.com/b/CA5BlXdY/jd-ada-development
-- Github : https://github.com/hanaasalsa/JDADA
+- Trello Team : https://trello.com/b/CA5BlXdY/jd-ada-development
+- Github Original : https://github.com/hanaasalsa/JDADA
 
 ### Kelompok 8 RPL
 1. Irlan Fazryana Rahman  G64180004
